@@ -1,2 +1,2 @@
 # competitive-programming
-Solutions files for contest problems that I successfully solve.
+Contains solutions files for contest problems that I successfully solve.
